@@ -7,3 +7,23 @@
 	<windows.h>
 	<iostream>
 
+1519056064 source:d:\telkom university\semester 2 - struktur data\task 5 - music player\list.cpp
+	"list.h"
+
+1519047419 d:\telkom university\semester 2 - struktur data\task 5 - music player\list.h
+	<string>
+	<windows.h>
+	<iostream>
+
+1519054807 source:d:\telkom university\semester 2 - struktur data\task 5 - music player\main.cpp
+	"player.h"
+	"list.h"
+	<conio.h>
+
+1518480258 d:\telkom university\semester 2 - struktur data\task 5 - music player\player.h
+	"list.h"
+
+1519055971 source:d:\telkom university\semester 2 - struktur data\task 5 - music player\player.cpp
+	"player.h"
+	<ctime>
+
